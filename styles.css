@@ -83,7 +83,7 @@ section p {
 
 section ul {
     display: flex;
-    flex-wrap: wrap-reverse;
+    /*flex-wrap: wrap-reverse;*/
     gap: 16px;
     margin-top: 24px;
 }
@@ -102,7 +102,7 @@ section  ul li:hover{
 
 .outros-games-list img {
     width: 90px;
-    border-radius: 50%;
+    border: radius 8px;;
     border: 1px solid #443E54;
 }
 /*animation*/
@@ -143,4 +143,12 @@ main section:nth-child(3){
         transform: translateX(0);
     }
 
+    body{
+        background: rgb(3, 38, 98)
+      }
+      
+}
+   .whatsapp-ico:hover{
+          box-shadow: 2px 2px 11px rgba(245, 247, 245, 0.7);
+}
 

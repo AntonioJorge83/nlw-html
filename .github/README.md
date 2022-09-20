@@ -15,4 +15,5 @@ Projeto  constuido do evento  Next Level Heew da Rocketseat.
 
 ## Contato
 
-ajcscramento@gmail.com
+- Aprimorando novos conhecimentos ccom mmuito carinho!
+- ajcsacramento@gmail.com
